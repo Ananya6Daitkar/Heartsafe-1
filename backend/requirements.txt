@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+torch
+numpy
+scipy
+pandas
+python-multipart
+imbalanced-learn
+scikit-learn
+pydantic
