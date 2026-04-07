@@ -383,7 +383,7 @@ A: Change port in startup command or config files
 4. Check backend logs for errors
 5. Verify all files are in place
 
----
+---o
 
 ## 🎉 Success!
 
